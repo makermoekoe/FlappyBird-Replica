@@ -10,8 +10,10 @@ To play this game with the same setup shown in the video, you will need two thin
 - [MakerDisplay from e-radionica](https://www.crowdsupply.com/e-radionica/maker-led-display)
 - [QiPad](https://github.com/makermoekoe/Qi-pad)
 
-Of course this game could be shifted to any other hardware you want. it is even possible to play this game in the SerialMonitor inside the Arduino IDE.
+Of course this game can be shifted to any other hardware you want. It is even possible to play this game in the SerialMonitor inside the Arduino IDE.
 
-I have added both the Arduino codes for the MakerDisplay as well as for the QiPad. The interesting part or lets say the physics of Flappy can be found in the MakerDisplay part.
+I have added both the Arduino code for the MakerDisplay as well as for the QiPad. The interesting part or lets say the physics of Flappy can be found in the MakerDisplay part.
 
-Have fun. :)
+When you have questions then feel free to ask.
+
+Have fun! :)
