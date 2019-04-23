@@ -4,7 +4,7 @@
 
 (Click on the image for a small video.)
 
-Just a 5 minute project for the Flappy Bird fans.
+Just a 5 minute project for the Flappy Bird fans. Keep in mind that this is a very simple implementation of the game, because I want to play it on small led matrices as well.
 
 To play this game with the same setup shown in the video, you will need two things only:
 - [MakerDisplay from e-radionica](https://www.crowdsupply.com/e-radionica/maker-led-display)
